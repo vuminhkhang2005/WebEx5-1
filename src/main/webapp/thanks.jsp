@@ -5,7 +5,7 @@
     <title>Thanks</title>
 </head>
 <body>
-<h2>Thanks for joining our email list</h2>
+<h2 style="color:teal;">Thanks for joining our email list</h2>
 <p>Here is the information that you entered:</p>
 <p>Email: ${email}</p>
 <p>First Name: ${firstName}</p>
@@ -16,3 +16,4 @@
 </form>
 </body>
 </html>
+
